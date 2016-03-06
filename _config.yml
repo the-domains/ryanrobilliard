@@ -1,7 +1,7 @@
 name: RyanRobilliard
 favicon: null
-layout_spectrum: 0.6259911344386637
-typography_spectrum: 0.6985070186201483
+layout_spectrum: 0.49037
+typography_spectrum: 0.5039
 title: Ryan Robilliard Visuals
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#050e0d'
+    - '#eef0ef'
+    - '#9d9d9b'
+    - '#565c5a'
+    - '#757b79'
   brandStrength: 0.8940350082702935
-  lightness: 0.7631003954447806
-  saturation: 0.2301389155909419
-  rhythmicContrast: 0.4341182850766927
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
